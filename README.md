@@ -20,6 +20,9 @@ Lin, W., Orton, I., Li, Q., Pavarini, G., & Mahmoud, M. (2020). Looking At The B
 ## Usage
 ### Guidance
 #### 1. Download demo data
+```
+https://drive.google.com/file/d/1vTZLxtAYgLMp7T-6abUqsZU-PvmqJuof/view?usp=sharing
+```
 This demo video is part of Rhythmic Fidgeting Dataset used in [1].
 
 Reference:
